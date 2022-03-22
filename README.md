@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **my old Projects**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** in Skidmore College
 
 - 👨‍💻 I'm currently studying **Data Structures and Algorithms on leetcode**
 
