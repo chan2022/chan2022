@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/101159967/159130413-e472819e-83dd-4dde-be3f-196bd3d7231e.jpg)
 
 <h1 align="center">Hello 👋, I'm Erica</h1>
-<h3 align="center">I'm a senior at Skidmore College, majoring in Mathematics and Computer Science and minoring in Chinese. I'm a passionate software developer from Korea, who loves to write codes and fix errors.</h3>
+<h3 align="center">I'm an Associate Software Developer at Morningstar, part of Wealth department under Portfolio Construction team. I'm a passionate software developer from Korea, who loves to write codes and fix errors.</h3>
 
 
 
@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my old Projects**
+- 🌱 I'm certified **AWS Associate Developer**
 
-- 🌱 I’m currently learning **Computer Vision** in Skidmore College
+- 🔭 I’m currently working on **SubAdvisory Service**
 
-- 👨‍💻 I'm currently studying **Data Structures and Algorithms on leetcode**
+- 👨‍💻 I'm currently building a **Monday Management Application**
 
-- 📫 How to reach me **chan@skidmore.edu**
+- 📫 How to reach me **Erica.Han@morningstar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
