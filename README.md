@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/101159967/159130413-e472819e-83dd-4dde-be3f-196bd3d7231e.jpg)
 
 <h1 align="center">Hello 👋, I'm Erica</h1>
-<h3 align="center">I'm an Associate Software Developer at Morningstar, part of Wealth department under Portfolio Construction team. I'm a passionate software developer from Korea, who loves to write codes and fix errors.</h3>
+<h3 align="center">I'm a Software Developer at Morningstar, part of Morningstar Investment Management department. I'm a passionate software developer from Korea, who's passionate about learning new technologies.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chan2022&label=Profile%20views&color=0e75b6&style=flat" alt="chan2022" /> </p>
