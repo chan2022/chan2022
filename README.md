@@ -8,7 +8,7 @@
 
 - 🌱 I'm certified **AWS Associate Developer**
 
-- 🔭 I’m currently working on **SubAdvisory Service**
+- 🔭 I’m currently working as a **Software Engineer** in Morningstar Inc.
 
 - 👨‍💻 I'm currently building a **Monday Management Application**
 
