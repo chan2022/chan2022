@@ -13,6 +13,8 @@
 - 📱 Currently exploring: Swift – excited to dive into iOS development!
 
 - 🌍 Open to global collaboration, especially companies that support diverse and creative work cultures.
+  
+- 💻 My GitHub is where I explore what interests me! From personal experiments to learning new technologies. 
 
 - 📫 How to reach me **Erica.Han@morningstar.com** || **hanchaehee1009@gmail.com**
 
