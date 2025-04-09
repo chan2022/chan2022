@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/101159967/159130413-e472819e-83dd-4dde-be3f-196bd3d7231e.jpg)
 
 <h1 align="center">Hello 👋, I'm Erica</h1>
-<h3 align="center">Hi! I'm Erica Han, a Korean software engineer based in Chicago 🇰🇷 ➡️ 🇺🇸, currently working at Morningstar within the Morningstar Investment Management department. I have nearly 3 years of experience building web applications using JavaScript, Vue.js, C#, .NET, and AWS Services. I'm passionate about creating impactful software</h3>
+<h3 align="center">Hi! I'm Erica Han, a Korean software engineer based in Chicago 🇰🇷 ➡️ 🇺🇸, currently working at Morningstar within the Morningstar Investment Management department. I have nearly 3 years of experience and I'm passionate about creating impactful software</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chan2022&label=Profile%20views&color=0e75b6&style=flat" alt="chan2022" /> </p>
@@ -12,7 +12,7 @@
 
 - 🌍 Open to global collaboration, especially companies that support diverse and creative work cultures.
 
-- 📫 How to reach me **Erica.Han@morningstar.com**
+- 📫 How to reach me **Erica.Han@morningstar.com** || **hanchaehee1009@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
