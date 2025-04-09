@@ -9,6 +9,8 @@
 - 🌱 I'm certified **AWS Associate Developer**
 
 - 🛠 Tech I love: JavaScript, Vue.js, C#, .NET, AWS, Node.js
+  
+- 📱 Currently exploring: Swift – excited to dive into iOS development!
 
 - 🌍 Open to global collaboration, especially companies that support diverse and creative work cultures.
 
